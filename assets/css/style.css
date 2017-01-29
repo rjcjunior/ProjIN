@@ -164,7 +164,17 @@ img{
 }
 .logodir{
 	padding-top: 10px;
+
 }
 .logodir a{
 	margin: 25px
+}
+.logodir img{
+	width: 100px;
+}
+.redessociais img{
+	width:30px;
+}
+.logodir img{
+	width:130px;
 }
