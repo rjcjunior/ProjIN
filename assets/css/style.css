@@ -108,3 +108,62 @@ img{
 			background-color: rgb(25,25,112);
 			color:rgb(0,0,0);
 			}
+
+
+#servicos{
+	padding-top: 20px;
+	height: 70%;
+	width: 100%;
+	font-family: Open Sans;
+	color: white;
+    display: block;
+    text-align:center;
+    position: relative;
+	display: inline-block;
+	
+}
+#servicos header{
+
+	margin-top: -15px;
+	background-image: none;
+	font-family: Open Sans;
+	color: white;
+}
+
+.consultoria img{
+	margin-left:25px; 
+}
+.web img{
+	margin-left:-5px; 
+}
+.sistemas img{
+	margin-left:10px; 
+
+}
+.containerfooter{
+			width: 100%;
+			text-align: center;
+			float: left;
+			color: rgba(255,255,255,0.3);
+			background-color: #121920;
+			position: relative;
+						
+
+}
+.containerfooter a{
+			text-decoration: none;
+ 			color: rgba(255,255,255,0.3);
+
+}
+.redessociais a{
+	margin: 5px;
+}
+.logoesq{
+	padding-top: 25px;
+}
+.logodir{
+	padding-top: 10px;
+}
+.logodir a{
+	margin: 25px
+}
