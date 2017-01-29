@@ -1,8 +1,8 @@
 
-				
+
 * {
 			padding:0;
-			margin:0; 
+			margin:0;
 	   }
 html{
 			height: 100%;
@@ -13,12 +13,12 @@ html{
 body{
 			height: 100%;
 			width: 100%;
-			position: relative;			
+			position: relative;
 			font-family: Open Sans;
-			background-color: #2C3E50;	
+			background-color: #2C3E50;
 
 		}
-		   
+
 header{
 			background-image: url("niteroi.jpg");
 			height: 85%;
@@ -74,7 +74,7 @@ img{
 			padding-top: 25px;
 			text-align: center;
 			position: absolute;
-			width:700px; 
+			width:700px;
 			height:200px;
 			left: calc(50% - 350px);
 			top: calc(50% - 100px);
@@ -85,6 +85,35 @@ img{
 			font-size: 34px;
 			font-family: Open Sans;
 		}
+#servicos{
+	padding-top: 20px;
+	height: 70%;
+	width: 100%;
+	font-family: Open Sans;
+	color: white;
+  display: block;
+  text-align:center;
+  position: relative;
+	display: inline-block;
+}
+#servicos header{
+
+	margin-top: -15px;
+	background-image: none;
+	font-family: Open Sans;
+	color: white;
+}
+
+.consultoria img{
+	margin-left:25px;
+}
+.web img{
+	margin-left:-5px;
+}
+.sistemas img{
+	margin-left:10px;
+
+}
 .introhome h3{
 			font-size: 30px;
 			margin-bottom: 20px;
@@ -92,12 +121,12 @@ img{
 
 		}
 .introhome a{
-			text-decoration: none;			
+			text-decoration: none;
 			display: inline-block;
 			margin: 1px;
 			background-color: transparent;
 			color:white;
-			padding: 10px 35px;	
+			padding: 10px 35px;
 			text-align: center;
 			font-size: 15px;
 			border-color: white;
@@ -108,6 +137,7 @@ img{
 			background-color: rgb(25,25,112);
 			color:rgb(0,0,0);
 			}
+<<<<<<< HEAD
 
 
 #servicos{
@@ -167,3 +197,59 @@ img{
 .logodir a{
 	margin: 25px
 }
+=======
+#servicos{
+				padding-top: 20px;
+				height: 70%;
+				width: 100%;
+				font-family: Open Sans;
+				color: white;
+			  display: block;
+			  text-align:center;
+			  position: relative;
+				display: inline-block;
+
+			}
+#servicos header{
+margin-top: -15px;
+background-image: none;
+font-family: Open Sans;
+color: white;
+			}
+
+.consultoria img{
+margin-left:25px;
+			}
+.web img{
+	margin-left:-5px;
+			}
+.sistemas img{
+	margin-left:10px;
+
+			}
+.containerfooter{
+		width: 100%;
+		text-align: center;
+		float: left;
+		color: rgba(255,255,255,0.3);
+		background-color: #121920;
+		position: relative;
+} 
+.containerfooter a{
+	text-decoration: none;
+	color: rgba(255,255,255,0.3);
+
+	}
+.redessociais a{
+	margin: 5px;
+	}
+.logoesq{
+	padding-top: 25px;
+		}
+.logodir{
+	padding-top: 10px;
+	}
+.logodir a{
+	margin: 25px
+	}
+>>>>>>> 53c9d844802f80bbc011c2d0413f2ad69a12ec65
