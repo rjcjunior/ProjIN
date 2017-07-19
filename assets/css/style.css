@@ -27,6 +27,7 @@ header{
 			font-family: Dancing Script;
 			background-size: contain;
 			background-size: 100% 100%;
+	                background-attachment: fixed;
 		}
 
 img{
@@ -55,12 +56,14 @@ img{
 }
 .navbar-right li{
 	margin: 20px;
+	transition: 0.4s;
 
 }
 .navbar-right li:hover{
 	background-color: #0066CC;
 	color:transparent;
 	font-size: 40px;
+	transition: 0.4s;
 }
 .navbar-default .navbar-toggle{
 	border-color: #0066CC;
